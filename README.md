@@ -1,6 +1,9 @@
 # CheetSheets
+
+updating...!
+
 <hr/>
-"Contributions are welcome! send your cheetsheets in Pdf or Image format
+"Contributions are welcome! send your cheetsheets in Pdf, Image format, Json or HTML
 <hr/>
 List of Available CheetSheets:
   <ul>
