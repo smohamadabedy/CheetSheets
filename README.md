@@ -11,4 +11,5 @@ List of Available CheetSheets:
     <li>Regex <br/> <ul><li>php,.net,vb,c,c++,c#,python,javascript,word,excel,access,windows search bar,terminals & powersheel</li></ul></li>
 	<li>Solid principles</li>
 	<li>Cloud computing</li>	
+	<li>Desing patterns</li>	
   </ul>
