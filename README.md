@@ -12,4 +12,5 @@ List of Available CheetSheets:
 	<li>Solid principles</li>
 	<li>Cloud computing</li>	
 	<li>Desing patterns</li>	
+	<li>PID</li>
   </ul>
